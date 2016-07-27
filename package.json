@@ -1,0 +1,26 @@
+{
+  "name": "norobots",
+  "version": "0.1.0",
+  "description": "Robots.txt rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangwd/norobots.git"
+  },
+  "keywords": [
+    "Robots.txt",
+    "node.js",
+    "Web",
+    "crawler",
+    "bot"
+  ],
+  "author": "Weidong Fang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fangwd/norobots/issues"
+  },
+  "homepage": "https://github.com/fangwd/norobots#readme"
+}
